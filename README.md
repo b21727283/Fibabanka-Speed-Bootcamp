@@ -104,7 +104,8 @@ sales_quantity özelliğinden bir eksiltmek, eğer sales_quantity sıfır
 olursa da tamamen silmek gibi düşündüm, o yüzden o şekilde yerine
 getirdim.
 
-## **GET** /shopping/checkout/{cartId} \> Eğer checkout false ise true yap  ![Graphical user interface, text, email Description automatically generated](./images/media/image17.PNG)
+## **GET** /shopping/checkout/{cartId} \> Eğer checkout false ise true yap  
+![Graphical user interface, text, email Description automatically generated](./images/media/image17.PNG)
 
 ## Database View
 ![Graphical user interface, text, application, email Description
