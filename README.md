@@ -190,7 +190,7 @@ confidence](./images/media/image32.PNG)
 ![Graphical user interface, application, table Description automatically
 generated](./images/media/image34.PNG)
 
-Bu sefer sales_quantity ve product_name özelliklerini elimle girmedim.
+Bu sefer sales_price ve product_name özelliklerini elimle girmedim.
 Servis benim yerime o özellikleri buldu ve doldurdu.
 
 ## **DELETE** /commerce/shopping/cart/{cartId}/remove/{productId} 
