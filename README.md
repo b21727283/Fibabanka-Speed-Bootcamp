@@ -70,7 +70,8 @@ generated](./images/media/image10.PNG)
 ![Chart Description automatically generated with low
 confidence](./images/media/image11.PNG)
 
-## Database View ![Graphical user interface, text, application, email Description automatically generated](./images/media/image12.PNG)
+## Database View 
+![Graphical user interface, text, application, email Description automatically generated](./images/media/image12.PNG)
 
 ## **POST** /shopping/cart/add \< Request: cartProductDto 
 
